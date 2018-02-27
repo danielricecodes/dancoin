@@ -214,12 +214,12 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and dancoin: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și dancoin: URIs)</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Deschide un litecoin: URI sau cerere de plată</translation>
+        <source>Open a dancoin: URI or payment request</source>
+        <translation>Deschide un dancoin: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>%1 behind</source>

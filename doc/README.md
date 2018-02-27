@@ -5,7 +5,7 @@ Setup
 ---------------------
 Litecoin Core is the original Litecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Litecoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Litecoin Core, visit [litecoin.org](https://litecoin.org).
+To download Litecoin Core, visit [dancoin.org](https://dancoin.org).
 
 Running
 ---------------------
@@ -15,12 +15,12 @@ The following are some helpful notes on how to run Litecoin on your native platf
 
 Unpack the files into a directory and run:
 
-- `bin/litecoin-qt` (GUI) or
-- `bin/litecoind` (headless)
+- `bin/dancoin-qt` (GUI) or
+- `bin/dancoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run litecoin-qt.exe.
+Unpack the files into a directory, and then run dancoin-qt.exe.
 
 ### OS X
 
@@ -28,10 +28,10 @@ Drag Litecoin-Core to your applications folder, and then run Litecoin-Core.
 
 ### Need Help?
 
-* See the documentation at the [Litecoin Wiki](https://litecoin.info/)
+* See the documentation at the [Litecoin Wiki](https://dancoin.info/)
 for help and more information.
-* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [LitecoinTalk](https://litecointalk.io/) forums.
+* Ask for help on [#dancoin](http://webchat.freenode.net?channels=dancoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=dancoin).
+* Ask for help on the [LitecoinTalk](https://dancointalk.io/) forums.
 
 Building
 ---------------------
@@ -50,7 +50,7 @@ The Litecoin repo's [root README](/README.md) contains relevant information on t
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/litecoin/doxygen/)
+- [Source Code Documentation (External Link)](https://dev.visucore.com/dancoin/doxygen/)
 - [Translation Process](translation_process.md)
 - [Translation Strings Policy](translation_strings_policy.md)
 - [Travis CI](travis-ci.md)
@@ -61,8 +61,8 @@ The Litecoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [LitecoinTalk](https://litecointalk.io/) forums.
-* Discuss general Litecoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev).
+* Discuss on the [LitecoinTalk](https://dancointalk.io/) forums.
+* Discuss general Litecoin development on #dancoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=dancoin-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
