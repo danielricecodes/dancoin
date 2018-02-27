@@ -1,4 +1,4 @@
-TOR SUPPORT IN LITECOIN
+TOR SUPPORT IN DANCOIN
 ======================
 
 It is possible to run Dancoin as a Tor hidden service, and connect to such services.
