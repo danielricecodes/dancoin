@@ -33,7 +33,7 @@ Build Dancoin Core
 
 1. Clone the dancoin source code and cd into `dancoin`
 
-        git clone https://github.com/dancoin-project/dancoin
+        git clone https://github.com/danielricecodes/dancoin
         cd dancoin
 
 2.  Build dancoin-core:

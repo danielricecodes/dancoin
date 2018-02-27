@@ -28,7 +28,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/dancoin-project/dancoin.git"
+- "url": "https://github.com/danielricecodes/dancoin.git"
   "dir": "dancoin"
 files: []
 script: |

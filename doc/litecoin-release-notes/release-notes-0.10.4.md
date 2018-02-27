@@ -8,7 +8,7 @@ recommended to upgrade to this version as soon as possible.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/dancoin-project/dancoin/issues>
+  <https://github.com/danielricecodes/dancoin/issues>
 
 Upgrading and downgrading
 =========================
