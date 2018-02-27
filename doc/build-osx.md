@@ -28,7 +28,7 @@ If you want to build with ZeroMQ support
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-Build Litecoin Core
+Build Dancoin Core
 ------------------------
 
 1. Clone the dancoin source code and cd into `dancoin`
@@ -57,19 +57,19 @@ Build Litecoin Core
 Running
 -------
 
-Litecoin Core is now available at `./src/dancoind`
+Dancoin Core is now available at `./src/dancoind`
 
 Before running, it's recommended you create an RPC configuration file.
 
-    echo -e "rpcuser=dancoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Litecoin/dancoin.conf"
+    echo -e "rpcuser=dancoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Dancoin/dancoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Litecoin/dancoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Dancoin/dancoin.conf"
 
 The first time you run dancoind, it will start downloading the blockchain. This process could take several hours.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/Litecoin/debug.log
+    tail -f $HOME/Library/Application\ Support/Dancoin/debug.log
 
 Other commands:
 -------

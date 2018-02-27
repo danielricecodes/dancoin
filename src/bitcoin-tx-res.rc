@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Litecoin"
-            VALUE "FileDescription",    "dancoin-tx (CLI Litecoin transaction editor utility)"
+            VALUE "CompanyName",        "Dancoin"
+            VALUE "FileDescription",    "dancoin-tx (CLI Dancoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "dancoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

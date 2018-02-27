@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to dancoin-core.
 
 General dancoin questions and/or support requests and are best directed to the [dancointalk.io forums](https://dancointalk.io/).
 
-For reporting security issues, please contact the Litecoin developers on the #dancoin-dev Freenode IRC channel or alternatively you can email us at contact@dancoin.org.
+For reporting security issues, please contact the Dancoin developers on the #dancoin-dev Freenode IRC channel or alternatively you can email us at contact@dancoin.org.
 
 ### Describe the issue
 

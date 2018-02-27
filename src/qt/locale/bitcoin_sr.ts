@@ -130,7 +130,7 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
+        <source>Send coins to a Dancoin address</source>
         <translation>Пошаљите новац на dancoin адресу</translation>
     </message>
     <message>
